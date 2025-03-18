@@ -1,0 +1,119 @@
+/* CUESTIONARIOS */
+
+/* Pregunta de ensayo */
+div .qtext {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+div .qtype_essay_editor p {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Pregunta de opción múltiple */
+fieldset legend {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+div .answer {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Pregunta de relacionar (unir con flechas) */
+div .select {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* ASIGNATURA */
+
+/* Pestañas del menú */
+div .secondary-navigation {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Pestañas de temas */
+div .tabs-wrapper {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Enlaces de actividades o recursos, etiquetas y descripciones visibles */
+div .course-content {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Descripción de actividad */
+div .activity-header {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Páginas de texto */
+div .box {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Foro */
+div .forum-post-container {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Glosario */
+div .glossarypost {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
+/* Vista de lista en base de datos */
+div .defaulttemplate-listentry {
+    /*font-size:1em;*/
+    font-family: Verdana, Geneva, sans-serif;
+    line-height: 150%;
+    text-align: left !important;
+    /*color: orange;*/
+}
+
