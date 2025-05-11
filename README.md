@@ -28,6 +28,8 @@ deberá adaptar la plantilla bajo su propia responsabilidad.
 
 INSTALACIÓN Y CONFIGURACIÓN
 
+Videotutorial: https://youtu.be/DLA2rbOCTyg
+
 1. En Google Chrome, abra el menú pinchando en el botón de los tres puntitos (arriba a la derecha),
    vaya a Extensiones > Visitar Chrome Web Store.
    En la barra de búsqueda, escriba: User JavaScript and CSS.
